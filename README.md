@@ -1,7 +1,7 @@
 angular-processing-seed
 =======================
 
-Install NPM and NODE then:
+Install NPM and NODE then from the repo's directory:
 
 `npm install connect` <br/>
 `npm install serve-static` <br/>
